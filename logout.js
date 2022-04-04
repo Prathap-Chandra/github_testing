@@ -4,6 +4,8 @@ console.log(3);
 console.log(4);
 console.log('sdfs');
 console.log('sdfsdfg');
+console.log('hello');
+console.log('hi');
 console.log(7);
 console.log(8);
 console.log(9);
